@@ -6,10 +6,10 @@ These are based on personal preferences; all relevant caveats apply.
 
 ## Installing a Virtualenv Recipe
 
-``sh
+```sh
 mkvirtualenv [whatever_name_you_want]
 pip install -r [file]
-``
+```
 
 ## Current Recipes
 
@@ -19,5 +19,4 @@ pip install -r [file]
 - [imaging](recipes/imaging.txt)
 - [ipython](recipes/ipython.txt)
 - [scraping](recipes/scraping.txt)
-
 
