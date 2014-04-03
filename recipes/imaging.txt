@@ -1,2 +1,4 @@
 pillow
+cython # req. for scikit-image
+numpy # req. for scikit-image
 scikit-image

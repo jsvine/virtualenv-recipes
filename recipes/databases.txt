@@ -1,2 +1,2 @@
 dataset
-csvkit
+csvkit --allow-external argparse
