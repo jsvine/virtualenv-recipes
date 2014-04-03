@@ -8,7 +8,7 @@ These are based on personal preferences; all relevant caveats apply.
 
 ```sh
 mkvirtualenv [whatever_name_you_want]
-pip install -r [file]
+./install-recipe.sh recipes/[RECIPE].txt
 ```
 
 ## Current Recipes
