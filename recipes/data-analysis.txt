@@ -4,5 +4,3 @@ scipy
 scikit-learn
 patsy
 statsmodels
-matplotlib
-mplstyle
