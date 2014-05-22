@@ -1,3 +1,4 @@
 flask
 frozen-flask
 flask-sslify
+flask-stormpath
