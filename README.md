@@ -16,7 +16,10 @@ mkvirtualenv [whatever_name_you_want]
 - [data-analysis](recipes/data-analysis.txt)
 - [databases](recipes/databases.txt)
 - [flask](recipes/flask.txt)
+- [geospatial](recipes/geospatial.txt)
 - [imaging](recipes/imaging.txt)
 - [ipython](recipes/ipython.txt)
 - [scraping](recipes/scraping.txt)
+- [testing](recipes/testing.txt)
+- [visualization](recipes/visualization.txt)
 
