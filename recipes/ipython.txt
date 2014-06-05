@@ -1,4 +1,6 @@
-pyzmq
-jinja2
+# If this recipe fails initially, run this commands:
+# export CFLAGS=-Qunused-arguments CPPFLAGS=-Qunused-arguments
 tornado
-ipython
+jinja2
+pyzmq
+--upgrade ipython
