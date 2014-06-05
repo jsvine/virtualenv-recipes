@@ -1,4 +1,4 @@
-# If this recipe fails initially, run this commands:
+# If this recipe fails initially, run this command:
 # export CFLAGS=-Qunused-arguments CPPFLAGS=-Qunused-arguments
 tornado
 jinja2
