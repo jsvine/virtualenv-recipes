@@ -1,3 +1,4 @@
 fiona
 shapely
 geopandas
+pyshp
