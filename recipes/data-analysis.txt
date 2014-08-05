@@ -1,4 +1,5 @@
 numpy
+openpyxl==1.6.1
 pandas
 scipy
 scikit-learn
