@@ -21,5 +21,6 @@ mkvirtualenv [whatever_name_you_want]
 - [ipython](recipes/ipython.txt)
 - [scraping](recipes/scraping.txt)
 - [testing](recipes/testing.txt)
+- [text-analysis](recipes/text-analysis.txt)
 - [visualization](recipes/visualization.txt)
 
