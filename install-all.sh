@@ -3,7 +3,7 @@ set -e
 PREFIX=$1
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source /usr/local/bin/virtualenvwrapper.sh
-for recipe in $(ls $DIR/recipes | head -2); do
+for recipe in $(ls $DIR/recipes); do
     bname=$(basename $recipe)
     rname="${bname%.*}"
     vname="$PREFIX$rname"
