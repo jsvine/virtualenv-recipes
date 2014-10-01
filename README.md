@@ -32,5 +32,5 @@ Be careful with this, especially if you already have virtualenvs with the same n
 ./install-all.sh [optional-prefix]
 ```
 
-If you supply a prefix of, e.g., "x-", your envs will be named "x-data-analysis", "x-databases", et cetera.
+If you supply a prefix of, e.g., `x-`, your envs will be named `x-data-analysis`, `x-databases`, et cetera.
 
