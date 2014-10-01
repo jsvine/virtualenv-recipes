@@ -1,6 +1,6 @@
 # Virtualenv Recipes
 
-Requirements.txt files for useful, modular Python virtualenvs. Plays well with [envplus](https://github.com/jsvine/envplus).
+A tool for creating for useful, modular Python virtualenvs. Plays well with [envplus](https://github.com/jsvine/envplus).
 
 These are based on personal preferences; all relevant caveats apply.
 
